@@ -2,15 +2,15 @@
 
 class Game 
 {
-    public const ATTEMPTS = 6;
+    public const ATTEMPTS = 7;
 
     private $words = [
-        'Hogwarts',
-        'Gryffindor',
-        'Hufflepuff',
-        'Ravenclaw',
-        'Slytherin',
-        'Horrocruxes',
+        'HOGWARTS',
+        'GRYFFINDOR',
+        'HUFFLEPUFF',
+        'RAVENCLAW',
+        'SLYTHERIN',
+        'HORROCRUXES',
     ];
 
     public function getWords() 
