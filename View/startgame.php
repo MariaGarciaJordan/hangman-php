@@ -23,18 +23,10 @@
             <h1>Juego del Ahorcado</h1>
         </div>
         <div class="game-box">
-            <ul class="word-display">
-                <li class="letter"></li>
-                <li class="letter"></li>
-                <li class="letter guessed">a</li>
-                <li class="letter"></li>
-                <li class="letter"></li>
-                <li class="letter"></li>
-                <li class="letter"></li>
-            </ul>
+            <ul class="word-display"></ul>
             <h4 class="hint-text">
-                Hint: 
-                <b>Lorem ipsum dolor sit amet consectetur adipisicing elit. </b>
+                Pista: 
+                <b></b>
             </h4>
             <h4 class="guesses-text">
                 Intentos fallidos: 
